@@ -1,0 +1,24 @@
+1_Dia de la semana que más reservas tiene
+
+2_Cuantas reservas se caen a la semana 	
+
+3_Medio por donde se hace la reserva
+
+4_El precio depende de la hora, día, cliente?
+
+5_Dias y horarios en los que abre
+
+6_Alquila las canchas para torneos, escuelitas de futbol...
+
+7_Si no hay turnos dados y llaman para reservar, ¿abre o no?
+
+8_Que otro servicio ofrece
+
+9_Que usa actualmente para llevar registro de las reservas
+
+10_Usa algún sistema, cual
+
+11_Usaria un sistema informático
+
+12_Cuenta con internet en las instalaciones
+
