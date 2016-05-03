@@ -1,0 +1,30 @@
+Devolucion día 12/04
+
+
+LISTO -hacer modelo lógico en el punto que va, no debajo de cada aplicación relevada. cambiar lo modelos por modelos bien hechos, corregirlos.
+LISTO -Tecnologías de información. Ordenar cada una por cada aplicación relevada y las que relevamos de mas ponerlas al final todas juntas como adicionales.
+LISTO - modelo logico actual de la organización.
+LISTO -separar problemas y necesidades, son cosas diferentes.
+LISTO -por aplicacion los problemas.
+LISTO -corregir diseñador grafico, ponerlo con linea punteada en el organigrama.
+LISTO -detallar actividades.
+
+FALTA -descompocision, ptos de función(para poner los tiempos) lo puse x si kieren investigar sobre eso.
+CASI ???-En las actividades. Relevamiento detallado hay que analizar las funciones de las aplicaciones relevadas.
+FALTA -pasar hrs a dias en el gantt
+FALTA- ver en el gantt programacion y documentacion. todo lo que esta actualmente ahí va en desarrollo del sistema por modulos.
+
+FALTA- relevamiento detallado de la organizacion.
+FALTA- incluir los anexos.
+
+Anexo 1: entrevistras
+	entrevista a...
+	entrevista a...
+
+Anexo 2: diagrama de gannt
+
+En base a lo relevado se ha encontrado una serie de problemas y necesidades en el
+entorno actual que es importante señalar. A partir de un estudio de funcionalidades de
+distintos sistemas existentes en el mercado y de entrevistas con expertos en el área
+(Ver Anexo 1) se puede notar que los siguientes son los puntos más importantes a tener
+en cuenta:
